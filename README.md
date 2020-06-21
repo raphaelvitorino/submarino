@@ -1,4 +1,4 @@
-# Submarino - Desafio Zup
+# Desafio Zup - Submarino
 
 Automação do fluxo de adicionar um produto no carrinho de compra do site Submarino.
 
